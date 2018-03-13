@@ -8,7 +8,7 @@
 //phpinfo();
 //include 'connect.php';
 //$sql = "INSERT INTO myguests (firstname, lastname, email)
-//VALUES ('timea', 'mokosakova', 'timea.mokosakova@gmail.com')";
+//VALUES ('timea', 'mokosakova', '.mokosakova@gmail.com')";
 
 $menoErr = $emailErr = $pohlavieErr = $strankaErr = "";
 $meno = $email = $pohlavie = $koment = $stranka = "";
