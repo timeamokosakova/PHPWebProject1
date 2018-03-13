@@ -4,7 +4,6 @@
 <body>
     <?php
    // include 'connect.php';
-
 //phpinfo();
 //include 'connect.php';
 //$sql = "INSERT INTO myguests (firstname, lastname, email)
