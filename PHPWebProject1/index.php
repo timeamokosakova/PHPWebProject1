@@ -6,10 +6,9 @@
    // include 'connect.php';
 
 //phpinfo();
-//echo "ahoj dusan";
 //include 'connect.php';
 //$sql = "INSERT INTO myguests (firstname, lastname, email)
-//VALUES ('dusan', 'mraz', '1mrazik1@gmail.com')";
+//VALUES ('timea', 'mokosakova', 'timea.mokosakova@gmail.com')";
 
 $menoErr = $emailErr = $pohlavieErr = $strankaErr = "";
 $meno = $email = $pohlavie = $koment = $stranka = "";
