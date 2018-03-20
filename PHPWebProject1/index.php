@@ -13,7 +13,7 @@ $menoErr = $emailErr = $pohlavieErr = $strankaErr = "";
 $meno = $email = $pohlavie = $koment = $stranka = "";
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if (empty($_POST["meno"])) {
-    $menoErr = "Meno je potrebné";
+    $menoErr = "Meno je doležité";
   } else {
     $meno = test_input($_POST["meno"]);
   if (!preg_match("/^[a-zA-Z ]*$/",$meno)) {
