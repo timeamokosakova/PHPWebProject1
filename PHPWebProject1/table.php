@@ -40,7 +40,7 @@
                 </tr>
                 <tr>
                     <th scope="row">3</th>
-                    <td colspan="2">Larry Moko</td>
+                    <td colspan="2">Larry Mokos</td>
                     <td>@twitter</td>
                 </tr>
             </tbody>
