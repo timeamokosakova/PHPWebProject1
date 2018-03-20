@@ -18,5 +18,9 @@
   <ItemGroup>
     <Compile Include="connect.php" />
     <Compile Include="index.php" />
+    <Compile Include="table.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="style.css" />
   </ItemGroup>
 </Project>
